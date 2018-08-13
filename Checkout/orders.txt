@@ -1,0 +1,140 @@
+
+First Name: Lucy
+Last Name: Liu
+Address: sss st
+Email: 22@gmail.com
+Phone: 0420670045
+Boxsets Price: 148.25
+Media: BluRay
+Delivery Price: 0
+Total Price: 148.25
+
+First Name: Lu's
+Last Name: Islk
+Address: sss st 
+Email: 22@gmail.com
+Phone: 0420670045
+Boxsets Price: 195.75
+Media: DVD
+Delivery Price: 10.50
+Total Price: 206.25
+
+First Name: 2
+Last Name: c
+Address: 2
+Email: 21312
+Phone: 2
+Boxsets Price: 17.00
+Media: DVD
+Delivery Price: 
+Total Price: 17.00
+
+First Name: 2
+Last Name: 3
+Address: 
+Email: 
+Phone: 
+Boxsets Price: 
+Media: 
+Delivery Price: 
+Total Price: 0.00
+
+First Name: a
+Last Name: c
+Address: 2
+Email: 2@q.com
+Phone: 2
+Boxsets Price: 
+Media: 
+Delivery Price: 7.00
+Total Price: 7.00
+
+First Name: 
+Last Name: 
+Address: 
+Email: 
+Phone: 
+Boxsets Price: 0.00
+Media: DVD
+Delivery Price: 
+Total Price: 0.00
+
+First Name: 
+Last Name: 
+Address: 
+Email: 
+Phone: 
+Boxsets Price: 
+Media: 
+Delivery Price: 
+Total Price: 0.00
+
+First Name: 
+Last Name: 
+Address: 
+Email: 
+Phone: 
+Boxsets Price: 
+Media: 
+Delivery Price: 
+Total Price: 0.00
+
+First Name: asd
+Last Name: asd
+Address: asd
+Email: 2@q.com
+Phone: 2133 333
+Boxsets Price: 119.75
+Media: DVD
+Delivery Price: 0.00
+Total Price: 119.75
+
+First Name: 
+Last Name: 
+Address: 
+Email: 
+Phone: 
+Boxsets Price: 
+Media: 
+Delivery Price: 
+Total Price: 0.00
+
+First Name: 
+Last Name: 
+Address: 
+Email: 
+Phone: 
+Boxsets Price: 0.00
+Media: 
+Delivery Price: 
+Total Price: 0.00
+
+First Name: a
+Last Name: 1231
+Address: 23
+Email: 123
+Phone: 123
+Boxsets Price: 
+Media: 
+Delivery Price: 
+Total Price: 0.00
+
+First Name: a
+Last Name: c
+Address: 222
+Email: 2@q.com
+Phone: 2
+Boxsets Price: 68.00
+Media: DVD
+Delivery Price: 0.00
+Total Price: 68.00
+
+First Name: 
+Last Name: 
+Address: 
+Email: 
+Phone: 
+Boxsets Price: 0.00
+Media: 
+Delivery Price: 
+Total Price: 0.00
